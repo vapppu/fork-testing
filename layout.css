@@ -12,8 +12,14 @@ body {
 }
 section {
   text-align: center;
+  max-width: 400px;
 }
 h1 {
   font-size: 2.5rem;
   font-weight: bold;
+}
+img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
 }
